@@ -14,3 +14,4 @@
 12. Warenkorb Button in der Shop Übersicht unnötig und umständlich.
 13. Sprache setzt sich zurück nach Weiterleitung.
 14. Englischer Shop ist anders als der Deutsche.
+15. Englische Produktbeschreibung ist auf Deutsch.
