@@ -19,3 +19,5 @@
 9. "Über uns" Bild sagt nichts über die Firma aus.
 
 10. B2B Branche sieht nicht wie ein Dropdown aus und hat wenig Auswahl.
+
+11. Warenkorb verschwindet nach Aktualisieren.
