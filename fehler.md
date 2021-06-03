@@ -21,3 +21,5 @@
 10. B2B Branche sieht nicht wie ein Dropdown aus und hat wenig Auswahl.
 
 11. Warenkorb verschwindet nach Aktualisieren.
+
+12. Warenkorb Button in der Shop Übersicht unnötig und umständlich.
