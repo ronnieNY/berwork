@@ -1,21 +1,21 @@
 # Verbesserungsvorschläge Berwork
 
-1.
+1. Aggressive Newsletter
 
-2.
+2. Navbar Icon nicht zentriert
 
-3.
+3. Leerer Warenkorb -> Zurück zum Shop -> Leere Seite
 
-4.
+4. B2B Button verschwindet wenn man mit der Maus drauf ist.
 
-5.
+5. B2B Bild ist etwas unpassend.
 
-6.
+6. B2B als Titel ausschreiben
 
-7.
+7. Shop ist in Navbar nicht hervorgehoben, wenn man ihn öffnet.
 
-8.
+8. Firmen Liste zu "Über uns" verschieben.
 
-9.
+9. "Über uns" Bild sagt nichts über die Firma aus.
 
-10.
+10. B2B Branche sieht nicht wie ein Dropdown aus und hat wenig Auswahl.
