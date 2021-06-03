@@ -15,3 +15,4 @@
 13. Sprache setzt sich zurück nach Weiterleitung.
 14. Englischer Shop ist anders als der Deutsche.
 15. Englische Produktbeschreibung ist auf Deutsch.
+16. Geschäftsbedingungen -> Inhaltsverzeichnis sind keine Links zu den Abschnitten.
